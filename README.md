@@ -2,7 +2,7 @@
 
 
 
-[![Prasanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasannan-robots&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Prasanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasannan-robots&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on OpenTeacher
 - 🌱 I’m currently learning Flutter
